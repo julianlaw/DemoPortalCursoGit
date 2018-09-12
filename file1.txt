@@ -1,2 +1,2 @@
-Ejemplo linea 1
+Ejemplo linea 1 adicion de texto
 Linea 2 desde rama 3
